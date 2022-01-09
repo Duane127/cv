@@ -1,0 +1,15 @@
+h1{
+  text-align: center;
+}
+
+img{max-width: 20%;}
+
+table, th, td{
+  width:20%;
+  border: 1px solid black;
+}
+td{
+  text-align: center;
+}
+
+input{background-color: red;}
